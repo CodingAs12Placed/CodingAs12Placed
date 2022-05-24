@@ -1,11 +1,11 @@
-package com.evolvingstuff.task;
+package com.CodingAs12Placed.task;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-import com.evolvingstuff.agent.IAgentSupervised;
-import com.evolvingstuff.evaluator.IInteractiveEvaluatorSupervised;
+import com.CodingAs12Placed.agent.IAgentSupervised;
+import com.CodingAs12Placed.evaluator.IInteractiveEvaluatorSupervised;
 import com.evolvingstuff.util.util;
 
 public class MonaLisa implements IInteractiveEvaluatorSupervised {
